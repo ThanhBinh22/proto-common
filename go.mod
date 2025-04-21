@@ -1,4 +1,4 @@
-module proto-common
+module github.com/ThanhBinh22/proto-common
 
 go 1.24
 
